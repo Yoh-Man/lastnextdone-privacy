@@ -1,4 +1,5 @@
 # lastnextdone-privacy
+
 Privacy Policy for LastNextDone
 
 Last updated: January 2026
@@ -27,4 +28,7 @@ If the app’s privacy practices change in the future, this policy will be updat
 
 Contact
 If you have questions about this privacy policy, you may contact the developer at:
-yhemery88@gmail.com
+yohapps.dev@gmail.com
+
+
+
